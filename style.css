@@ -1,0 +1,39 @@
+body{
+    margin: 20px;
+    background-color: lightblue;
+
+}
+section{
+    background-color: white;
+}
+img{
+    height: 50px;
+    width: 80px;
+    gap: 10px;
+}
+div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.eur>img{
+    height: 50px;
+}
+.btc>img{
+    height: 50px;
+}
+.gbp>img{
+    height: 50px;
+}
+.czk>img{
+    height: 50px;
+}
+.usd>img{
+    height: 50px;
+}
+.header{
+    background-color: lightblue;
+}
+.next{
+    gap: 20px;
+}
